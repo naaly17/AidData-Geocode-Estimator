@@ -1,0 +1,13 @@
+README
+
+Steps to build and run the Geocode Estimator:
+
+- Install Netbeans 8.1 (with Glassfish and/or Apache Tomcat Server)
+- Install JDK 8u65
+- Open project in Netbeans
+- Right click on project and select "Clean and Build" (This will grab all 
+  the needed jar files from Maven)
+- Click on the menu option Run -> Run Project (this will deploy the 
+  project to your Glassfish or Apache Tomcat Server and launch the web 
+  application in your default browser)
+  

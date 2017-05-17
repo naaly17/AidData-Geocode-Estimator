@@ -1,0 +1,7 @@
+com/aiddata/estimator/entities/Parser.class
+com/aiddata/estimator/entities/Results.class
+com/aiddata/estimator/entities/Mention.class
+com/aiddata/estimator/entities/Coordinates.class
+com/aiddata/estimator/entities/Places.class
+com/aiddata/estimator/controllers/DefaultController.class
+com/aiddata/estimator/entities/Calculations.class
